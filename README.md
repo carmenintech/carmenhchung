@@ -2,11 +2,11 @@
 
 # Hi there, I'm Carmen. 👋
 
-Senior Product Manager by day @linktree. Full stack Software Engineer by night. 
+Senior Product Manager by day @linktree. Full stack Software Engineer by night.
 
-I write a free weekly newsletter called *This Week In Tech*, covering the latest tech news here: https://thisweekintech.substack.com/ and you can find me on Twitter at [@carmenhchung](https://twitter.com/carmenhchung).
+I write a free weekly newsletter called *This Week In Tech*, covering the latest tech news here: https://thisweekintech.substack.com/ and you can find me on Twitter at [@carmenintech](https://twitter.com/carmenintech).
 
-<p align="center"><a href="https://twitter.com/carmenhchung"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p align="center"><a href="https://twitter.com/carmenintech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carmenchung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/carmenhchung"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://carmenhchung.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -15,7 +15,7 @@ I write a free weekly newsletter called *This Week In Tech*, covering the latest
 
 ## 📖 My Story
 
-I graduated with a Bachelor of Arts/Bachelor of Laws (with Honors) from the University of New South Wales, before working internationally as a corporate lawyer for seven years. In 2017, I discovered my passion for coding after being awarded the Women in Tech Scholarship to study at Coder Academy in Sydney, Australia. 
+I graduated with a Bachelor of Arts/Bachelor of Laws (with Honors) from the University of New South Wales, before working internationally as a corporate lawyer for seven years. In 2017, I discovered my passion for coding after being awarded the Women in Tech Scholarship to study at Coder Academy in Sydney, Australia.
 
 I was a full stack Software Engineer for three years at Valiant Finance and CompliSpace, before making the pivot into product management. I am currently a Product Manager at Linktree.
 
@@ -32,7 +32,7 @@ In my spare time, you can find me creating digital illustrations, reading fantas
 ## 🗣 Testimonials
 
 James Middlemiss, Senior Software Engineer at Valiant Finance:
-> "Carmen and I had the pleasure of working together for a year and a half from January 2019. In that time we worked closely as a small engineering team on several small and large scale projects within the company, building internal tools and API's for public use. Carmen's work ethic, eagerness to learn and passion for technology is second to none, making her an ideal colleague. Friendly and professional, Carmen is delightful to work with, and I would not hesitate to make her a colleague of mine again." 
+> "Carmen and I had the pleasure of working together for a year and a half from January 2019. In that time we worked closely as a small engineering team on several small and large scale projects within the company, building internal tools and API's for public use. Carmen's work ethic, eagerness to learn and passion for technology is second to none, making her an ideal colleague. Friendly and professional, Carmen is delightful to work with, and I would not hesitate to make her a colleague of mine again."
 
 Joanne Harries, Founder of The Vet Equation:
 > "Working with Carmen has been fantastic. Carmen is extremely efficient, responsive, enthusiastic and easy to work with. She takes the time listen to desired project outcomes and any specific requests, and clearly explains all of the steps of the project and analysis for different approaches, which is very useful. I am thrilled with the work Carmen has done so far and I give her my highest recommendation!"
@@ -45,4 +45,4 @@ Rosann Ling, Founder of Prism Creative:
 
 ## 🙌 Want to get in touch?
 
-Contact me on Twitter at [@carmenhchung](https://twitter.com/carmenhchung) or subscribe to my newsletter [here](https://carmenchung.substack.com/).
+Contact me on Twitter at [@carmenhchung](https://twitter.com/carmenintech) or subscribe to my newsletter [here](https://carmenchung.substack.com/).
